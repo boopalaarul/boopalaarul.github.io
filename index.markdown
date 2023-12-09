@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+Hi, I'm Boopala Arul. Learn more **[about me](/about/)**,
+
+...peruse my coding projects,
+
+...or check out my **[writing](/writing/)**, technical and otherwise.
