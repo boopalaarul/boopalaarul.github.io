@@ -20,7 +20,7 @@ This was a paper completed for a class on applying archaeological methods to the
 
 ### Multiple Paths to Drought Resistance in Wheat: Zinc finger protein gene TaZFP13D Is Important, but Redundant
 
-[PDF](/public/documents/BGGN215FinalPaper)
+[PDF](/public/documents/BGGN215FinalPaper.pdf)
 
 #### June 12, 2023
 
